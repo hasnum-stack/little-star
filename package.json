@@ -1,0 +1,17 @@
+{
+  "name": "@hasnum/calc",
+  "version": "0.0.3-beta.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "666"
+  ],
+  "author": "hasnum<hasnum@163.com>",
+  "license": "ISC"
+}
