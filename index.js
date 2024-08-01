@@ -12,3 +12,5 @@ function plusfour(num) {
 }
 export default plusone;
 export { plustwo, plusthree, plusfour };
+
+console.log('rebase')
