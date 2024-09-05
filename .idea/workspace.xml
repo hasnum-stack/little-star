@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="082df13d-8c7f-4fc6-823a-c4dbe4dd812b" name="Changes" comment="feat: add">
-      <changelist_data name="hasnum" email="hasnum@163.com" date="1725526801000" />
+      <changelist_data name="hasnum" email="hasnum@163.com" date="1725526801000" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/.gitigngore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c.js" beforeDir="false" afterPath="$PROJECT_DIR$/c.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hasnum/test" />
+        <entry key="$PROJECT_DIR$" value="test/commit" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,11 +45,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.github.patou.gitmoji.display-icon": "emoji",
     "com.github.patou.gitmoji.insert-in-cursor-position": "true",
     "com.github.patou.gitmoji.text-after-unicode": "",
     "com.github.patou.gitmoji.use-unicode": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "test/commit2",
     "last_opened_file_path": "/Users/hasnum/Documents/open/little-star",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -56,7 +60,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
       </set>
     </attachedChunks>
   </component>
@@ -70,6 +74,7 @@
       <updated>1691128528087</updated>
       <workItem from="1714027005909" duration="1695000" />
       <workItem from="1722495902441" duration="293000" />
+      <workItem from="1745393940556" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="feat">
       <option name="closed" value="true" />
