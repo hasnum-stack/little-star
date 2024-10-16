@@ -17,4 +17,5 @@ console.log('rebase')
 console.log('test_rebase')
 
 console.log('main')
+console.log('test_main')
 console.log('main.custom')
