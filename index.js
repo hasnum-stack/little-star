@@ -12,7 +12,35 @@ function plusfour(num) {
 }
 export default plusone;
 export { plustwo, plusthree, plusfour };
-
+/**
+ * {
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * 公共需求5
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * }
+ */
 console.log('rebase')
 console.log('test_rebase')
 //公共需求2
