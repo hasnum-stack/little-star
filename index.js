@@ -15,3 +15,5 @@ export { plustwo, plusthree, plusfour };
 
 console.log('rebase')
 console.log('test_rebase')
+
+console.log('main')
