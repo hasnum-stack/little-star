@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="082df13d-8c7f-4fc6-823a-c4dbe4dd812b" name="Changes" comment="feat: add">
-      <changelist_data name="hasnum" email="hasnum@163.com" date="1725526801000" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.gitigngore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitigngore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitigngore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c.js" beforeDir="false" afterPath="$PROJECT_DIR$/c.js" afterDir="false" />
     </list>
@@ -74,7 +73,7 @@
       <updated>1691128528087</updated>
       <workItem from="1714027005909" duration="1695000" />
       <workItem from="1722495902441" duration="293000" />
-      <workItem from="1745393940556" duration="72000" />
+      <workItem from="1745393940556" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="feat">
       <option name="closed" value="true" />
@@ -108,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725526802254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: add">
+      <option name="closed" value="true" />
+      <created>1745394014950</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745394014950</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
